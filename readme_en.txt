@@ -10,6 +10,7 @@ Installation
 Extract to `protected/extensions`.
 
 Add following code to `config/main.php`:
+
 ~~~
 [php]
 'import'=>array(
